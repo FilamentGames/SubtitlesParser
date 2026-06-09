@@ -1,3 +1,5 @@
+🛑 This fork's purpose is only for deploying a UPM package to registry.filamentgames.com. Please submit issues and pull requests to the upstream repository: https://github.com/AlexPoint/SubtitlesParser
+
 ## SubtitlesParser
 
 Universal subtitles parser which aims at supporting parsing for all subtitle formats, and writing some.
